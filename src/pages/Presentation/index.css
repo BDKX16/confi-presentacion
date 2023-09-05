@@ -1,0 +1,27 @@
+#pageTitle{
+    font-size:140px
+}
+
+@media  (max-width: 1200px) {
+    
+    #pageTitle{
+        font-size:100px
+    }
+
+}
+
+@media  (max-width: 773px) {
+    
+    #pageTitle{
+        font-size:70px
+    }
+
+}
+
+@media  (max-width: 413px) {
+    
+    #pageTitle{
+        font-size:50px
+    }
+
+}
